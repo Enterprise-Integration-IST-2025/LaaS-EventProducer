@@ -1,5 +1,5 @@
 # LaaSSimulator
-IE 2024 tool to act as an event producer for LaaS, using a Kafka Producer 
+IE 2025 tool to act as an event producer for LaaS, using a Kafka Producer 
 
 The tool starts by discovering all the topic available in the kafka cluster and then randomize messages for all that discovered topics.
 You are free to customize the tool accordingly with your needs. If so, create a pull request to change this repository.
