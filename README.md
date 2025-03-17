@@ -15,7 +15,7 @@ Then, to execute the generator of messages use the following command from the ta
 java -jar LaaSSimulator.jar 
 ```
 ```
-The usage of the Message Producer for LaaS 2024, for Enterprise Integration 2024 course, is the following.
+The usage of the Message Producer for LaaS 2025, for Enterprise Integration 2025 course, is the following.
 
 LaaSSimulator --broker-list <brokers> --throughput <value> --typeMessage <value> --filterprefix <value> 
 where, 
