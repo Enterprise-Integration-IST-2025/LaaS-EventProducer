@@ -178,7 +178,7 @@ public class LaaSMessageProvider {
 	public static void main(String[] args) {
 
 
-		String usage = "\nThe usage of the Message Producer for LaaS 2024, for Enterprise Integration 2024 course, is the following.\n\n" 
+		String usage = "\nThe usage of the Message Producer for LaaS 2025, for Enterprise Integration 2025 course, is the following.\n\n" 
 				+ "LaaSSimulator "
 				+ "--broker-list <brokers> "
 				+ "--throughput <value> "
